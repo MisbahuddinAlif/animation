@@ -1,0 +1,26 @@
+body{
+    background-image: url(border.png);
+    background-size: 450px;
+    background-repeat: no-repeat;
+}
+.video{
+    margin-left: 410px;
+    margin-top: 20px;
+    
+}
+.header{
+   text-align: center;
+   font-size: 50px;
+   color: saddlebrown;
+}
+.YT{
+    margin-left: 380px;
+    margin-top: 20px;
+}
+.audio{
+    margin-left: 510px;
+}
+.para{
+    text-align: center;
+    padding: 10px;
+}
